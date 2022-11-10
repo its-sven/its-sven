@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p href="https://svenw.de/" target="_blank" align="center">
-    <img src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/its-sven_banner.png" />
+    <img src="https://github.com/its-sven/its-sven/blob/b80122cdaef5cbe9b2280e1fe49f14f80d542063/images/its-sven_banner.png" />
 </p>
 
 <h2 align="center">My name is Sven<br>An German wannabe Nerd 🥸</h1>
