@@ -13,7 +13,7 @@
     <a href="https://discord.gg/2KRSV2arDN">
       <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/Discord.png"> Discord</a></code>
   <code>
-    <a href="https://twitter.com/ZigZockt">
+    <a href="https://twitter.com/sven_wuerth">
       <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/twitter.png"> Twitter</a></code>
   <code>
     <a href="mailto:kontakt@svenw.de">
