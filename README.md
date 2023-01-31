@@ -6,18 +6,10 @@
 
 <h2 align="center">🌐 My Socials</h3>
 <h4 align="center">
-  <code>
-      <a href="https://www.instagram.com/sven_wuerth/">
-      <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/instagram.png"> Instagram</a></code>
-  <code>
-    <a href="https://discord.gg/2KRSV2arDN">
-      <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/Discord.png"> Discord</a></code>
-  <code>
-    <a href="https://twitter.com/sven_wuerth">
-      <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/twitter.png"> Twitter</a></code>
-  <code>
-    <a href="mailto:kontakt@svenw.de">
-      <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/email.png"> E-Mail</a></code>
+      <code><a href="https://www.instagram.com/sven_wuerth/"> <img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/instagram.png"> Instagram</a></code>
+      <code><a href="https://discord.gg/2KRSV2arDN"><img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/Discord.png"> Discord</a></code>
+      <code><a href="https://twitter.com/sven_wuerth"><img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/twitter.png"> Twitter</a></code>
+      <code><a href="mailto:kontakt@svenw.de"><img width="50" src="https://raw.githubusercontent.com/its-sven/its-sven/main/images/icons/email.png"> E-Mail</a></code>
 
 
 
